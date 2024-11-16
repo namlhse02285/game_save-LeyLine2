@@ -6,7 +6,7 @@ CoordMode "ToolTip", "Client"
 orgFolder := "org\"
 mtlFolder := "mtl\"
 fileName := "script.txt"
-curentLine := 12409
+curentLine := 12568
 orgArr := []
 mtlArr := []
 
